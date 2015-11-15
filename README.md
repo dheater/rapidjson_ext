@@ -3,8 +3,8 @@ Wrappers and extensions to [RapidJSON](http://rapidjson.org/)
 
 # Installation
 ## Dependencies
-CMake
-[rapidjson](https://github.com/miloyip/rapidjson)
+- CMake
+- [rapidjson](https://github.com/miloyip/rapidjson)
 
 ## Building and Installing
 1. Create a directory called `build` within this directory.
